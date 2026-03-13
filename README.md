@@ -97,15 +97,15 @@ To better understand the patterns in the dataset, several visualizations were cr
 
 1️⃣ Gender Distribution
 
-![Male Vs Female Babies Birth Distribution](Visualizations/Male Vs Female Birth Counts.png)
+![Male Vs Female Babies Birth Distribution](https://github.com/aishwaryasavanth22/Analysing-Naming-Trends-Using-Python/blob/7cf57b447d6c1fb40b5a46001c24307bafb2c88e/Visualizations/Male%20Vs%20Female%20Birth%20Counts.png)
 
 2️⃣ Aggregated Birth Counts
 
-![Aggregated Birth Counts](Visualizations/Aggregated Birth Counts.png)
+![Aggregated Birth Counts](https://github.com/aishwaryasavanth22/Analysing-Naming-Trends-Using-Python/blob/7cf57b447d6c1fb40b5a46001c24307bafb2c88e/Visualizations/Aggregated%20Birth%20Counts.png)
 
 3️⃣ Top 10 Popular Baby Names
 
-![Top 10 Popular Baby Names](Visualizations/Top 10 Baby Names.png)
+![Top 10 Popular Baby Names](https://github.com/aishwaryasavanth22/Analysing-Naming-Trends-Using-Python/blob/a350a185cba01d30237a62c6b29948369a17c0ec/Visualizations/Top%2010%20Baby%20Names.png)
 
 These visualizations help clearly communicate naming trends and distribution patterns.
 
