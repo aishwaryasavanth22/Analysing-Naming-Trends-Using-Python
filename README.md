@@ -11,7 +11,7 @@ By combining multiple yearly datasets and analyzing birth counts, the project id
 
 This project highlights core Data Science workflow skills including data extraction, data preprocessing, exploratory analysis, and data visualization using Python.
 
-Link to the Notebook : 
+[Notebook Link](https://github.com/aishwaryasavanth22/Analysing-Naming-Trends-Using-Python/blob/b9f439d626dfcd549ae938ee96a155b65780c8e3/Analyzing%20Naming%20Trends.ipynb)
 
 #### 🎯 Project Objective :
 The goal of this project is to analyze historical baby name data in order to:
