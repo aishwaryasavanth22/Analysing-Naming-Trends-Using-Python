@@ -97,15 +97,15 @@ To better understand the patterns in the dataset, several visualizations were cr
 
 1️⃣ Gender Distribution
 
-![Male Vs Female Babies Birth Distribution]
+![Male Vs Female Babies Birth Distribution](Visualizations/Male Vs Female Birth Counts.png)
 
 2️⃣ Aggregated Birth Counts
 
-![Aggregated Birth Counts]
+![Aggregated Birth Counts](Visualizations/Aggregated Birth Counts.png)
 
 3️⃣ Top 10 Popular Baby Names
 
-![Top 10 Popular Baby Names]
+![Top 10 Popular Baby Names](Visualizations/Top 10 Baby Names.png)
 
 These visualizations help clearly communicate naming trends and distribution patterns.
 
@@ -161,5 +161,9 @@ Aspiring Data Scientist | Machine Learning Enthusiast
 Passionate about data analysis, machine learning, and AI-driven insights.
 
 ⭐ If you found this project helpful, consider starring the repository!
+
+
+
+
 
 
